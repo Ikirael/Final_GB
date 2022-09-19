@@ -1,0 +1,15 @@
+D:\Geek Brains\Final_GB\main\bin\Debug\net6.0\Final_GB.exe
+D:\Geek Brains\Final_GB\main\bin\Debug\net6.0\Final_GB.deps.json
+D:\Geek Brains\Final_GB\main\bin\Debug\net6.0\Final_GB.runtimeconfig.json
+D:\Geek Brains\Final_GB\main\bin\Debug\net6.0\Final_GB.dll
+D:\Geek Brains\Final_GB\main\bin\Debug\net6.0\Final_GB.pdb
+D:\Geek Brains\Final_GB\main\obj\Debug\net6.0\Final_GB.csproj.AssemblyReference.cache
+D:\Geek Brains\Final_GB\main\obj\Debug\net6.0\Final_GB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek Brains\Final_GB\main\obj\Debug\net6.0\Final_GB.AssemblyInfoInputs.cache
+D:\Geek Brains\Final_GB\main\obj\Debug\net6.0\Final_GB.AssemblyInfo.cs
+D:\Geek Brains\Final_GB\main\obj\Debug\net6.0\Final_GB.csproj.CoreCompileInputs.cache
+D:\Geek Brains\Final_GB\main\obj\Debug\net6.0\Final_GB.dll
+D:\Geek Brains\Final_GB\main\obj\Debug\net6.0\refint\Final_GB.dll
+D:\Geek Brains\Final_GB\main\obj\Debug\net6.0\Final_GB.pdb
+D:\Geek Brains\Final_GB\main\obj\Debug\net6.0\Final_GB.genruntimeconfig.cache
+D:\Geek Brains\Final_GB\main\obj\Debug\net6.0\ref\Final_GB.dll
